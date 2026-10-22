@@ -1,0 +1,19 @@
+2026-10-16 00:52:49,782 - WARNING - Hospital B (Community Clinic) network timeout / client dropout this round.
+2026-10-16 00:53:05,060 - INFO - Round 01 | Accuracy: 59.90% | Sensitivity/Recall: 100.00% | Precision: 59.90% | F1: 74.92% | AUC: 1.0000
+2026-10-16 00:53:43,260 - WARNING - Hospital D (Regional Hospital) network timeout / client dropout this round.
+2026-10-16 00:53:45,288 - INFO - Round 02 | Accuracy: 100.00% | Sensitivity/Recall: 100.00% | Precision: 100.00% | F1: 100.00% | AUC: 1.0000
+2026-10-16 00:54:22,750 - WARNING - Hospital B (Community Clinic) network timeout / client dropout this round.
+2026-10-16 00:54:25,660 - INFO - Round 03 | Accuracy: 100.00% | Sensitivity/Recall: 100.00% | Precision: 100.00% | F1: 100.00% | AUC: 1.0000
+2026-10-16 00:55:02,666 - WARNING - Hospital A (Orthopedic Center) network timeout / client dropout this round.
+2026-10-16 00:55:06,176 - INFO - Round 04 | Accuracy: 100.00% | Sensitivity/Recall: 100.00% | Precision: 100.00% | F1: 100.00% | AUC: 1.0000
+2026-10-16 10:30:32,768 - WARNING - Hospital B (Community Clinic) network timeout / client dropout this round.
+2026-10-16 10:30:52,910 - INFO - Round 01 | Accuracy: 40.10% | Sensitivity/Recall: 0.00% | Precision: 0.00% | F1: 0.00% | AUC: 1.0000
+2026-10-16 10:31:18,539 - WARNING - Hospital D (Regional Hospital) network timeout / client dropout this round.
+2026-10-16 10:31:20,611 - INFO - Round 02 | Accuracy: 40.10% | Sensitivity/Recall: 0.00% | Precision: 0.00% | F1: 0.00% | AUC: 1.0000
+2026-10-16 10:31:45,091 - WARNING - Hospital B (Community Clinic) network timeout / client dropout this round.
+2026-10-16 10:31:47,980 - INFO - Round 03 | Accuracy: 100.00% | Sensitivity/Recall: 100.00% | Precision: 100.00% | F1: 100.00% | AUC: 1.0000
+2026-10-16 10:32:12,253 - WARNING - Hospital A (Orthopedic Center) network timeout / client dropout this round.
+2026-10-16 10:32:15,523 - INFO - Round 04 | Accuracy: 100.00% | Sensitivity/Recall: 100.00% | Precision: 100.00% | F1: 100.00% | AUC: 1.0000
+2026-10-16 10:32:40,802 - WARNING - Hospital D (Regional Hospital) network timeout / client dropout this round.
+2026-10-16 10:32:42,731 - INFO - Round 05 | Accuracy: 100.00% | Sensitivity/Recall: 100.00% | Precision: 100.00% | F1: 100.00% | AUC: 1.0000
+2026-10-16 10:32:42,757 - INFO - Clinical metrics exported to results/clinical_metrics.json
